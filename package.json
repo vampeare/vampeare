@@ -3,6 +3,9 @@
   "author": "Robert Borghese",
   "main": "bot.js",
   "version": "1.5.9",
+"engines": {
+    "node": "6.11.1"
+  },
   "dependencies": {
     "canvas": "^2.6.1",
     "discord.js": "^11.5.1",
